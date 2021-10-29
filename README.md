@@ -4,12 +4,18 @@
 
 > Car Game written in PyGame! NOTE: This is still new and there may be stuff broken...
 
-### 🏠 [Homepage](https://jyanjohn.github.io/Jyandevs.github.io)
+### 🏠 [Homepage](https://jyanjohn.github.io/Jyandevs.github.io/index.html)
 
-## Install
+## Installation and how to use
 
 ```sh
-install pygame by typing 'pip install pygame' on your terminal and run it using 'python3.9 game.py' NOTE: This has some issues with python 3.10
+git clone https://github.com/JyanJohn/CarGame.git
+```
+```
+pip install pygame
+```
+```
+python3 game.py
 ```
 
 ## Author
@@ -18,6 +24,8 @@ install pygame by typing 'pip install pygame' on your terminal and run it using 
 
 * Website: https://jyanjohn.github.io/Jyandevs.github.io/index.html
 * Github: [@JyanJohn](https://github.com/JyanJohn)
+* Facebook: [JyanJohn](https://facebook.com/jyan.john.5)
+* Instagram: [JyanJohn](https://instagram.com/jyanjohn)
 
 ## Show your support
 
