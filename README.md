@@ -21,8 +21,4 @@ install pygame by typing 'pip install pygame' on your terminal and run it using 
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Give a ⭐️ if you liked this project!
