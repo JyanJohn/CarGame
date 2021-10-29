@@ -1,4 +1,4 @@
-# Welcome to CarGame 👋
+# CarGame written in Python3.9
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![License: GPL--3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](#)
 
